@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]  
 
-<!--
-**mohit-rajput-7780/mohit-rajput-7780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Proficient in Python & Development**  
+💡 **Passionate About AI/ML & Data Analytics**  
 
-Here are some ideas to get you started:
+## 🛠 Skills & Technologies  
+- 🐍 Python | SQL | C++  
+- 📊 Data Analytics | Machine Learning  
+- 🛢️ SQLite | Oracle SQL  
+- 📝 OOP | CSV & SQLite3  
+- 🖥️ GitHub | Kaggle  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me  
+- 💼 [LinkedIn]()  
+- 📂 [GitHub]()  
+- 🏆 Kaggle Profile  
+
+---
+
+💬 *Let's collaborate on AI/ML projects!* 🚀
