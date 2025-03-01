@@ -4,7 +4,7 @@
 💡 **Passionate About AI/ML & Data Analytics**  
 
 ## 🛠 Skills & Technologies  
-- 🐍 Python | SQL | C++  
+- 🐍 Python | SQL | C
 - 📊 Data Analytics | Machine Learning  
 - 🛢️ SQLite | Oracle SQL  
 - 📝 OOP | CSV & SQLite3  
