@@ -3,14 +3,14 @@
 🚀 *Proficient in Python & Development**  
 💡 *Passionate About AI/ML & Data Analytics**  
 
-# 🛠 Skills & Technologies  
+### 🛠 Skills & Technologies  
 - 🐍 Python | SQL | C
 - 📊 Data Analytics | Machine Learning  
 - 🛢️ SQLite | Oracle SQL  
 - 📝 OOP | CSV & SQLite3  
 - 🖥️ GitHub | Kaggle  
 
-# 🔗 Connect with Me  
+### 🔗 Connect with Me  
 - 💼 [LinkedIn]()  
 - 📂 [GitHub]()  
 - 🏆 Kaggle Profile  
