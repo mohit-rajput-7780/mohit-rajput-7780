@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mohit Rajput  
+## 👋 Hello, I'm Mohit Rajput  
 
 🚀 *Proficient in Python & Development**  
 💡 *Passionate About AI/ML & Data Analytics**  
