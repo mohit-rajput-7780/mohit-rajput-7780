@@ -16,9 +16,9 @@
 ---
 
 ### 🔗 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohit-rajput-7780)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohit-rajput7780)  
 - 📂 [GitHub](https://github.com/mohit-rajput-7780)  
-- 🏆 [Kaggle Profile](https://www.kaggle.com/mohit-rajput-7780)
+- 🏆 [Kaggle Profile](https://www.kaggle.com/mohitrajput7780)
 
 ---
 
